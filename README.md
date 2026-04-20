@@ -5,10 +5,10 @@ Este repositorio contiene los ejercicios solicitados como parte del proceso de s
 ## Ejercicios
 
 ### Ejercicio B - Gestion de Biblioteca
-Ubicacion: `Library Exercise B/`
+Ubicacion: `library-exercise-b/`
 
 ### Ejercicio C - Analisis de Frecuencia de Palabras
-Ubicacion: `Word Frecuency Exercise C/`
+Ubicacion: `word-frequency-exercise-c/`
 
 ---
 
@@ -19,7 +19,7 @@ This repository contains the exercises requested as part of the selection proces
 ## Exercises
 
 ### Exercise B - Library Management
-Location: `Library Exercise B/`
+Location: `library-exercise-b/`
 
 ### Exercise C - Word Frequency Analysis
-Location: `Word Frecuency Exercise C/`
+Location: `word-frequency-exercise-c/`
