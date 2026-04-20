@@ -1,0 +1,11 @@
+La inteligencia artificial es una rama de la informática que busca desarrollar sistemas capaces de realizar tareas que, normalmente, requieren inteligencia humana. Estas tareas incluyen el aprendizaje, el razonamiento, la resolución de problemas, la percepción y la comprensión del lenguaje natural.
+
+El aprendizaje automático es una subdisciplina de la inteligencia artificial que permite a los sistemas aprender de los datos sin ser programados explícitamente. A través del aprendizaje automático, los sistemas pueden mejorar su rendimiento con la experiencia. El aprendizaje profundo, una técnica dentro del aprendizaje automático, utiliza redes neuronales artificiales con muchas capas para analizar datos complejos.
+
+Los sistemas de inteligencia artificial se aplican hoy en día en muchos campos: en medicina para el diagnóstico de enfermedades, en finanzas para detectar fraudes, en transporte para el desarrollo de vehículos autónomos, y en el entretenimiento para recomendar contenido personalizado. La inteligencia artificial también se usa en la robótica, donde los robots deben percibir su entorno y tomar decisiones en tiempo real.
+
+El procesamiento del lenguaje natural es otra área clave de la inteligencia artificial. Permite a los sistemas comprender, interpretar y generar texto en lenguaje humano. Gracias al procesamiento del lenguaje natural, existen hoy asistentes virtuales, traductores automáticos y sistemas de análisis de sentimientos. El análisis de sentimientos permite determinar si un texto expresa una opinión positiva, negativa o neutral.
+
+La inteligencia artificial plantea también importantes desafíos éticos. El uso de datos personales para entrenar sistemas de inteligencia artificial genera preguntas sobre la privacidad. Los sistemas de inteligencia artificial pueden reproducir y amplificar sesgos presentes en los datos de entrenamiento. Por eso, es fundamental desarrollar sistemas de inteligencia artificial de manera responsable, transparente y con supervisión humana.
+
+En definitiva, la inteligencia artificial es una tecnología transformadora que cambia la forma en que los sistemas procesan información y toman decisiones. Su desarrollo continúa avanzando rápidamente, y su impacto en la sociedad será cada vez mayor en los próximos años.
